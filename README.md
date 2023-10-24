@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Eirik, a curious type who is now going face-first into front-end development.
 
 <!--
 **RealZasin/RealZasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
