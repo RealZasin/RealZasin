@@ -38,7 +38,7 @@ Jeg er motivert for å lære meg mer og bli bedre på det jeg allerede kan.<br><
 
 #
 
-Kontakt Meg:
+Kontakt Meg:  <br>
 eirikbech@hotmail.com <br>
 +47 40546018
 
