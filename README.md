@@ -1,7 +1,7 @@
 ### Hi there 👋
 Jeg heter Eirik, en nysgjerrig type som nå har stupet hodet først inn i front-end-utvikling.
 
-Om meg:
+Om meg:<br>
 Jeg har alltid vært veldig interessert i gaming, både på konsoller og PC-er. Denne lidenskapen har ført meg til å bytte til PC, som har mye mer å tilby på både spill, programmer og skillsets som man kan lære seg gratis på nett. <br><br>
 På grunn av min nysgjerrighet har det ledet meg til blandt annet koding, redigering av video og bilder, streaming, lage content for YouTube, opprette en online store, facebook/tiktok ads og mye mye mer forskjellig. <br><br>
 Ved siden av min nerdete side trives jeg godt på treningssenteret, en daglig dose bevegelse er godt for både sinn og kropp. <br><br>
