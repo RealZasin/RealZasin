@@ -1,5 +1,10 @@
 ### Heisann!👋 Jeg er Eirik ☺️
-En nysgjerrig type som nå har stupet hodet først inn i front-end-utvikling.
+29 år. <br>
+Bor i Fyllingsalen, Bergen. <br>
+Går for øyeblikket på kurs hos Kodehode for å bli en junior front-end utvikler. <br>
+Leiter nå etter en praksisplass. <br>
+Ta gjerne kontakt! <br> <br>
+
 
 ### Språk og verktøy 🧰
 
@@ -9,7 +14,7 @@ En nysgjerrig type som nå har stupet hodet først inn i front-end-utvikling.
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 <br><br>
-### Vil lære 📚
+### Ønsker å lære 📚
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
