@@ -27,9 +27,9 @@ Ta gjerne kontakt! <br> <br>
 
 ### 📊 Stats
 
-<!-- ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealZasin&show_icons=true&theme=algolia) -->
+ ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealZasin&show_icons=true&theme=algolia) -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RealZasin&theme=algolia&border_radius=4.5)
+<!--![GitHub Streak](https://streak-stats.demolab.com?user=RealZasin&theme=algolia&border_radius=4.5)-->
 
 #
 
