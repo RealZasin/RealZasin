@@ -27,9 +27,9 @@ Ta gjerne kontakt! <br> <br>
 
 ### 📊 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealZasin&show=true&theme=blue_navy)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealZasin&show=true&theme=blue_navy)-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=RealZasin&theme=blue-navy&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-<!--![GitHub Streak](https://streak-stats.demolab.com?user=RealZasin&theme=algolia&border_radius=4.5)-->
+
 
 #
 
