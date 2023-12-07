@@ -45,7 +45,6 @@ Jeg er motivert for å lære meg mer og bli bedre på det jeg allerede kan.<br><
 
 Kontakt Meg:  <br>
 eirikbech@hotmail.com <br>
-+47 40546018
 
 <!--
 **RealZasin/RealZasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
