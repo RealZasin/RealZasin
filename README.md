@@ -6,7 +6,10 @@ Før kodehode har jeg vært innom andre jobber som matvarekjeder, transportyrket
 
 Jeg søker nå en praksisplass hvor jeg kan fortsette å utvikle meg selv og mine ferdigheter innen koding.
 
+Kontakt:  <br>
+eirikbech@hotmail.com <br>
 
+#
 
 ### Språk og verktøy 🧰
 
@@ -32,7 +35,7 @@ Jeg søker nå en praksisplass hvor jeg kan fortsette å utvikle meg selv og min
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealZasin&show=true&theme=blue_navy)-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=RealZasin&theme=blue-navy&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-
+<!--
 #
 
 <details>
@@ -47,7 +50,7 @@ Jeg er motivert for å lære meg mer og bli bedre på det jeg allerede kan.<br><
 
 Kontakt Meg:  <br>
 eirikbech@hotmail.com <br>
-
+-->
 <!--
 **RealZasin/RealZasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
