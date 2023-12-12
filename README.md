@@ -1,9 +1,11 @@
-### Heisann!👋 Jeg er Eirik ☺️
-29 år. <br>
-Bor i Fyllingsalen, Bergen. <br>
-Går for øyeblikket på kurs hos Kodehode for å bli en junior front-end utvikler. <br>
-Leiter nå etter en praksisplass. <br>
-Ta gjerne kontakt! <br> <br>
+Heisann! 😊
+
+Jeg heter Eirik og går på Kodehodet for å bli en frontend-utvikler. Jeg kan for øyeblikket HTML, CSS, Javascript og litt React men har veldig lyst å fordype meg mer, spesielt i React. Andre verktøy og språk som er av interesse er f.eks Python, c++ og Java.
+
+Før kodehode har jeg vært innom andre jobber som matvarekjeder, transportyrket og vaktmester arbeid. Interesser og hobbier varierer men trives godt på treningssenteret og jobbe med kreativt arbeid på PC.
+
+Jeg søker nå en praksisplass hvor jeg kan fortsette å utvikle meg selv og mine ferdigheter innen koding.
+
 
 
 ### Språk og verktøy 🧰
