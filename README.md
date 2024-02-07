@@ -1,10 +1,7 @@
-Heisann! 😊
+Hei!
 
-Jeg heter Eirik og går på Kodehodet for å bli en frontend-utvikler. Jeg kan for øyeblikket HTML, CSS, Javascript og litt React men har veldig lyst å fordype meg mer, spesielt i React. Andre verktøy og språk som er av interesse er f.eks Python, c++ og Java.
+Jeg heter Eirik, og studerer for tiden frontendutvikling på Kodehode. I tillegg til HTML og CSS, har jeg fordypet meg i JavaScript, Typescript og React. For tiden driver jeg og jobber mest i TypeScript, og har fått veldig sans for rammeverket Astro.
 
-Før kodehode har jeg vært innom andre jobber som matvarekjeder, transportyrket og vaktmester arbeid. Interesser og hobbier varierer men trives godt på treningssenteret og jobbe med kreativt arbeid på PC.
-
-Jeg søker nå en praksisplass hvor jeg kan fortsette å utvikle meg selv og mine ferdigheter innen koding.
 
 Kontakt:  <br>
 eirikbech@hotmail.com <br>
@@ -19,6 +16,8 @@ eirikbech@hotmail.com <br>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Astro" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/A/astro-icon-logo-44253BACEE-seeklogo.com.png" />
+
 
 <br><br>
 ### Ønsker å lære 📚
