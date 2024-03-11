@@ -1,6 +1,5 @@
 Hei!
-
-Jeg heter Eirik, og studerer for tiden frontendutvikling på Kodehode. I tillegg til HTML og CSS, har jeg fordypet meg i JavaScript og React. For tiden driver jeg og jobber mest med React, og har fått sans for rammeverket Astro.
+Jeg heter Eirik, og studerer for tiden frontendutvikling på Kodehode. I tillegg til CSS og JavaScript, har jeg brukt mye tid på fordype meg i JS-bibliotek og rammeverk som f.eks React. Jeg liker å jobbe med webutvikling generelt, og er ikke fremmed for å fordype meg i plattformer som WordPress og tilsvarende.
 
 
 Kontakt:  <br>
