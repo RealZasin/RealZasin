@@ -1,4 +1,4 @@
-Hei!
+Hei! <br>
 Jeg heter Eirik, og studerer for tiden frontendutvikling på Kodehode. I tillegg til CSS og JavaScript, har jeg brukt mye tid på fordype meg i JS-bibliotek og rammeverk som f.eks React. Jeg liker å jobbe med webutvikling generelt, og er ikke fremmed for å fordype meg i plattformer som WordPress og tilsvarende.
 
 
