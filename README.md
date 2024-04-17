@@ -1,5 +1,5 @@
 Hei! <br>
-Jeg heter Eirik, og studerer for tiden frontendutvikling på Kodehode. I tillegg til CSS og JavaScript, har jeg brukt mye tid på fordype meg i JS-bibliotek og rammeverk som f.eks React. Jeg liker å jobbe med webutvikling generelt, og er ikke fremmed for å fordype meg i plattformer som WordPress og tilsvarende.
+Jeg heter Eirik, og studerer for tiden frontendutvikling på Kodehode. I tillegg til JavaScript og Astro, har jeg brukt mye tid på fordype meg i JS-bibliotek og rammeverk som f.eks React. Jeg liker å jobbe med webutvikling generelt, og er ikke fremmed for å ville lære nye ting some TypeScript og C#.
 
 
 Kontakt:  <br>
@@ -10,7 +10,7 @@ eirikbech@hotmail.com <br>
 ### Språk og verktøy 🧰
 
 <!--<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />-->
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<!--<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />-->
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
@@ -21,9 +21,11 @@ eirikbech@hotmail.com <br>
 <br><br>
 ### Ønsker å lære 📚
 
+
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 
 <br />
