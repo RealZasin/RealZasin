@@ -1,5 +1,5 @@
 Hei! <br>
-Jeg heter Eirik, og studerer for tiden frontendutvikling på Kodehode. I tillegg til JavaScript og Astro, har jeg brukt mye tid på fordype meg i JS-bibliotek og rammeverk som f.eks React. Jeg liker å jobbe med webutvikling generelt, og er ikke fremmed for å ville lære nye ting some TypeScript og C#.
+Jeg heter Eirik, og studerer for tiden frontendutvikling på Kodehode. I tillegg til JavaScript og Astro, har jeg brukt mye tid på fordype meg i JS-bibliotek og rammeverk som f.eks React. Jeg liker å jobbe med webutvikling generelt, og er ikke fremmed for å ville lære nye ting som TypeScript og C#.
 
 
 Kontakt:  <br>
